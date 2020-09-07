@@ -12,6 +12,7 @@
 <a href="https://www.linkedin.com/in/vinicius-bortoletto/"><img align="left" alt="linkedIn" height="40px" src="https://iconmonstr.com/wp-content/g/gd/makefg.php?i=../assets/preview/2012/png/iconmonstr-linkedin-5.png&r=0&g=0&b=0" /></a>
 <a href="mailto:ovinibortoletto@gmail.com?subject=website contact"><img align="left" alt="email" height="40px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-email-11.png" /></a>
 
+</br></br></br>
 
 ### Languages:
 
@@ -26,6 +27,7 @@
 
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
+</br></br></br>
 
 ### Tools:
 
@@ -42,6 +44,8 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <img align="left" alt="Linux" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.screenconnect.com%2FImages%2FLogoLinux.png&f=1&nofb=1" />
+
+</br></br></br>
 
 ### Speaking languages:
 
