@@ -12,11 +12,16 @@
 <a href="https://www.linkedin.com/in/vinicius-bortoletto/"><img align="left" alt="linkedIn" height="40px" src="https://iconmonstr.com/wp-content/g/gd/makefg.php?i=../assets/preview/2012/png/iconmonstr-linkedin-5.png&r=0&g=0&b=0" /></a>
 <a href="mailto:ovinibortoletto@gmail.com?subject=website contact"><img align="left" alt="email" height="40px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-email-11.png" /></a>
 
-</br></br></br>
+</br></br>
 
 ### Languages:
 
+<<<<<<< HEAD
 <img align="left" alt="HTML5" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+=======
+<img align="left" alt="HTML5" height="40px"" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+
+> > > > > > > f51d09e7ad4986d054be904b0936859da37f4704
 
 <img align="left" alt="CSS3" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
@@ -27,7 +32,7 @@
 
 <img align="left" alt="React" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
-</br></br></br>
+</br></br>
 
 ### Tools:
 
@@ -45,7 +50,7 @@
 
 <img align="left" alt="Linux" height="40px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.screenconnect.com%2FImages%2FLogoLinux.png&f=1&nofb=1" />
 
-</br></br></br>
+</br></br>
 
 ### Speaking languages:
 
