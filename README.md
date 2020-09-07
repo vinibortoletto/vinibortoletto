@@ -14,6 +14,8 @@
 
 <br />
 <br />
+<br />
+<br />
 
 ### Languages:
 
@@ -28,9 +30,10 @@
 
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
-
-</br>
-</br>
+<br />
+<br />
+<br />
+<br />
 
 ### Tools:
 
@@ -48,9 +51,10 @@
 
 <img align="left" alt="Linux" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.screenconnect.com%2FImages%2FLogoLinux.png&f=1&nofb=1" />
 
-
-</br>
-</br>
+<br />
+<br />
+<br />
+<br />
 
 ### Speaking languages:
 
