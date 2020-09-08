@@ -1,5 +1,3 @@
-<img alt="codeSTACKr.com" alt="vinicius bortoletto's banner" src="https://i.imgur.com/Rpao95U.png" />
-
 # Hi there. I'm Vini, just a front-end developer
 
 - 🔭 I’m currently working on <a href="https://github.com/vinibortoletto/marinho-agropecuaria">Marinho Agropecuária,</a> a pet supplies store
