@@ -1,4 +1,4 @@
-# Hi there. I'm Vini, just a front-end developer
+# Hi there, I'm Vini.
 
 <b>Connect with me</b>
 
