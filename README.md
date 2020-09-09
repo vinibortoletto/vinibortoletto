@@ -1,10 +1,6 @@
 # Hi there. I'm Vini, just a front-end developer
 
-- 🔭 I’m currently working on <a href="https://github.com/vinibortoletto/marinho-agropecuaria">Marinho Agropecuária,</a> a pet supplies store
-- 🌱 I’m currently learning React.JS and React Native
-- 📫 How to reach me: ovinibortoletto@gmail.com
-
-### Connect with me
+<b>Connect with me</b>
 
 <a href="https://vinibortoletto.github.io/portfolio"><img align="left" alt="portfolio" height="40px" src="https://i.imgur.com/vy4IHim.png" /></a>
 <a href="https://www.linkedin.com/in/vinicius-bortoletto/"><img align="left" alt="linkedIn" height="40px" src="https://iconmonstr.com/wp-content/g/gd/makefg.php?i=../assets/preview/2012/png/iconmonstr-linkedin-5.png&r=0&g=0&b=0" /></a>
@@ -12,7 +8,7 @@
 
 </br></br>
 
-### Languages:
+<b>Languages</b>
 
 <img align="left" alt="HTML5" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
@@ -27,7 +23,7 @@
 
 </br></br>
 
-### Tools:
+<b>Tools</b>
 
 <img align="left" alt="Visual Studio Code" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
@@ -45,7 +41,7 @@
 
 </br></br>
 
-### Speaking languages:
+<b>Speaking languages</b>
 
 <img align="left" alt="Brazil" height="40px" src="https://image.flaticon.com/icons/svg/197/197386.svg" />
 
