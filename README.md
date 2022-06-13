@@ -9,8 +9,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinibortoletto&layout=compact&langs_count=7&theme=gotham"/>
 </div>
   
-  <br><br>
-  
 <div style="display: inline_block"><br>
   <img align="center" alt="ícone do git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="ícone do terminal bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
@@ -20,7 +18,6 @@
   <img align="center" alt="ícone do javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="ícone do react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   
-  <img align="right" alt="desenho cartoon de vinicius bortoletto" height="150" style="border-radius:50px;" src="https://vinibortoletto.netlify.app/static/media/avatar.16c4b3de.svg">  
   
   <img align="right" alt="ícone do git" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/323/323315.png">
   <img align="right" alt="ícone do git" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/197/197374.png">
