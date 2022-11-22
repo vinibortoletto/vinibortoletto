@@ -1,9 +1,11 @@
-<h1>Hey, I'm Vini!</h1> 
-<h4>I'm currently studing fullstack web development at <a href='https://www.betrybe.com/'>Trybe.</a></h4>
+<div align='center'>
+  <h1>Hey, I'm Vini!</h1> 
+  <h4>I'm currently studing fullstack web development at <a href='https://www.betrybe.com/'>Trybe.</a></h4>
+</div>
 <br>
 
 
-<div align="left">
+<div align="center">
   <a href="https://github.com/vinibortoletto">
   <img height="180em" margin="40" src="https://github-readme-stats.vercel.app/api?username=vinibortoletto&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinibortoletto&layout=compact&langs_count=7&theme=gotham"/>
