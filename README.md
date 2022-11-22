@@ -1,5 +1,5 @@
-<h1>Olá, me chamo Vinicius Bortoletto!</h1> 
-<h4>Estudante de desenvolvimento web full stack.</h4>
+<h1>Hey, I'm Vini!</h1> 
+<h4>I'm currently studing fullstack web development at <a href='https://www.betrybe.com/'>Trybe.</a></h4>
 <br>
 
 
@@ -26,13 +26,4 @@
   <img align="right" alt="ícone do git" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/323/323315.png">
   <img align="right" alt="ícone do git" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/197/197374.png">
   <img align="right" alt="ícone do git" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/197/197386.png">
-</div>
-  
-
-  ##  
- 
-<div> 
-  <a href = "mailto:ovinibortoletto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/vinicius-bortoletto" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
 </div>
