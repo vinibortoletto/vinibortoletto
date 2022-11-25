@@ -1,6 +1,6 @@
 <div align='center'>
   <h1>Hey, I'm Vini!</h1> 
-  <h4>I'm currently studing fullstack web development at <a href='https://www.betrybe.com/'>Trybe.</a></h4>
+  <h4>I'm currently studying fullstack web development at <a href='https://www.betrybe.com/'>Trybe.</a></h4>
 </div>
 <br>
 
