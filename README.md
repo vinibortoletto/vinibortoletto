@@ -26,6 +26,7 @@ Passado alguns anos, a ilustração já não me animava mais, então resolvi bus
 ## Contato
 - Portfolio: https://vinibortoletto.vercel.app/
 - Email: ovinibortoletto@gmail.com
+- LinkedIn: https://www.linkedin.com/in/vinicius-bortoletto/
 
 <br>
 
