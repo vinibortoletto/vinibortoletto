@@ -61,8 +61,6 @@ Passado alguns anos, a ilustração já não me animava mais, então resolvi bus
 - Email: ovinibortoletto@gmail.com
 - LinkedIn: https://www.linkedin.com/in/vinicius-bortoletto/
 
-![](https://komarev.com/ghpvc/?username=vinibortoletto-github-username&color=blue)
-
 <br>
 
 <div align="center">
