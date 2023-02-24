@@ -12,45 +12,29 @@ Passado alguns anos, a ilustração já não me animava mais, então resolvi bus
 </p>
 
 ## Tecnologias
-
-<!-- ## Tecnologias que estudo atualmente:  -->
-<!-- - TypeScript
-- Node.js
-- APIs RESTful
-- SOLID
-- POO -->
-
 <p align='left'>
-  <a href="https://www.linkedin.com/in/vinicius-bortoletto/">
-    <img src="https://img.shields.io/badge/LinkedIn-0b6b81?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <img src="https://img.shields.io/badge/Node.js-0b6b81?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-0b6b81?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-0b6b81?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-0b6b81?style=for-the-badge&logo=html5&logoColor=white" />
+  
   <img src="https://img.shields.io/badge/CSS3-0b6b81?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Sass-0b6b81?style=for-the-badge&logo=sass&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-0b6b81?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/React-0b6b81?style=for-the-badge&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-0b6b81?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0b6b81?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/styled--components-0b6b81?style=for-the-badge&logo=styled-components&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/JavaScript-0b6b81?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-0b6b81?style=for-the-badge&logo=typescript&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/React-0b6b81?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Redux-0b6b81?style=for-the-badge&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/React_Router-0b6b81?style=for-the-badge&logo=react-router&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Node.js-0b6b81?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-0b6b81?style=for-the-badge" /> 
   <img src="https://img.shields.io/badge/MySQL-0b6b81?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-0b6b81?style=for-the-badge&logo=docker&logoColor=white" />
+  
   <img src="https://img.shields.io/badge/Git-0b6b81?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-0b6b81?style=for-the-badge&logo=linux&logoColor=white" /> 
 </p>
-  
-<!-- ## Tecnlogias que domino
-- JavaScript
-- React.js
-- Redux
-- CSS
-- MySQL
-- Sequelize
-- Docker -->
 
 ## Idiomas
 - Inglês (avançado)
