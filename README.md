@@ -1,10 +1,4 @@
 <!-- <img src='https://i.imgur.com/5NO0MoV.png'> -->
-
-<div align="center">
-  <a href="https://github.com/vinibortoletto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinibortoletto&show_icons=true&hide_border=true&text_color=0b6b81&title_color=009DBE&bg_color=0D1017&icon_color=009DBE&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinibortoletto&layout=compact&langs_count=7&hide_border=true&text_color=0b6b81&title_color=009DBE&bg_color=0D1017&icon_color=009DBE"/>
-</div>
   
 ## Projetos
 <div align='center'>
@@ -46,6 +40,12 @@
   <img src="https://img.shields.io/badge/Linux-0b6b81?style=for-the-badge&logo=linux&logoColor=white" /> 
 </p>
 
+<div align="center">
+  <a href="https://github.com/vinibortoletto">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinibortoletto&show_icons=true&hide_border=true&text_color=0b6b81&title_color=009DBE&bg_color=0D1017&icon_color=009DBE&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinibortoletto&layout=compact&langs_count=7&hide_border=true&text_color=0b6b81&title_color=009DBE&bg_color=0D1017&icon_color=009DBE"/>
+</div>
+  
 ## Idiomas
 - Inglês (avançado)
 - Francês (intermediário)
@@ -66,4 +66,4 @@ Comecei minha jornada como Técnico em Informática, formado pela escola SENAC, 
 Passado alguns anos, a ilustração já não me animava mais, então resolvi buscar novos desafios e voltei para área de tecnologia, e hoje sou estudante de desenvolvimento web full-stack, formando pela escola Trybe. Lá, descobri na programação a possibilidade de continuar exercendo minha criatividade na criação de códigos. Também fiz parte dos VolunTrybers, uma iniciativa onde auxiliávamos outros colegas estudantes com dificuldades, o que me ensinou habilidades socio-emocionais importantes, como comunicação assertiva, empatia, escuta ativa, além de colaboração, resiliência e resolução de problemas através de diversos trabalhos em equipe.
 </p>
  
-<img src='https://i.imgur.com/T8WMiK7.png' >
+<!-- <img src='https://i.imgur.com/T8WMiK7.png' > -->
