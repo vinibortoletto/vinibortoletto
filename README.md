@@ -9,6 +9,14 @@
   <a href="https://github.com/vinibortoletto/trybe-futebol-clube">
     <img width=45% alt="project card" src="https://i.imgur.com/p1XPE9y.png" />
   </a>
+  
+  <a href="https://github.com/vinibortoletto/car-shop">
+    <img width=45% alt="project card" src="https://i.imgur.com/EYQ5Xzi.png" />
+  </a>
+  
+  <a href="https://github.com/vinibortoletto/marinho-agropecuaria">
+    <img width=45% alt="project card" src="https://i.imgur.com/8kgUrMC.png" />
+  </a>
 </div>
 
 ## Tecnologias
