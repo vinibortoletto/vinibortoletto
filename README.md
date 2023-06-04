@@ -22,6 +22,8 @@ Passado alguns anos, a ilustração já não me animava mais, então resolvi bus
   
   <img src="https://img.shields.io/badge/JavaScript-0b6b81?style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-0b6b81?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-0b6b81?style=for-the-badge&logo=Python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-0b6b81?style=for-the-badge&logo=java&logoColor=white" />
   
   <img src="https://img.shields.io/badge/React-0b6b81?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Redux-0b6b81?style=for-the-badge&logo=redux&logoColor=white" />
@@ -30,11 +32,25 @@ Passado alguns anos, a ilustração já não me animava mais, então resolvi bus
   <img src="https://img.shields.io/badge/Node.js-0b6b81?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-0b6b81?style=for-the-badge" /> 
   <img src="https://img.shields.io/badge/MySQL-0b6b81?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sequelize-0b6b81?style=for-the-badge&logo=sequelize&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-0b6b81?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-0b6b81?style=for-the-badge&logo=docker&logoColor=white" />
   
   <img src="https://img.shields.io/badge/Git-0b6b81?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-0b6b81?style=for-the-badge&logo=linux&logoColor=white" /> 
 </p>
+
+## Projetos
+
+<div align='center'>
+<a href="https://github.com/vinibortoletto/recipes-app#------uma-aplica%C3%A7%C3%A3o-para-pesquisa-de-receitas-de-comidas-e-bebidas">
+    <img width=45% alt="project card" src="https://i.imgur.com/W4wU894.png" />
+</a>
+
+<a href="https://github.com/vinibortoletto/trybe-futebol-clube#tryber-futebol-clube">
+    <img width=45% alt="project card" src="https://i.imgur.com/VqIMGpo.png" />
+</a>
+</div>
 
 ## Idiomas
 - Inglês (avançado)
