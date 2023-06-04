@@ -2,12 +2,12 @@
   
 ## Projetos
 <div align='center'>
-  <a href="https://github.com/vinibortoletto/recipes-app#------uma-aplica%C3%A7%C3%A3o-para-pesquisa-de-receitas-de-comidas-e-bebidas">
-    <img width=45% alt="project card" src="https://i.imgur.com/W4wU894.png" />
+  <a href="https://github.com/vinibortoletto/recipes-app">
+    <img width=45% alt="project card" src="https://i.imgur.com/q6olj9E.png" />
   </a>
 
-  <a href="https://github.com/vinibortoletto/trybe-futebol-clube#tryber-futebol-clube">
-    <img width=45% alt="project card" src="https://i.imgur.com/VqIMGpo.png" />
+  <a href="https://github.com/vinibortoletto/trybe-futebol-clube">
+    <img width=45% alt="project card" src="https://i.imgur.com/p1XPE9y.png" />
   </a>
 </div>
 
