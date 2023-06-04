@@ -1,15 +1,21 @@
-<img src='https://i.imgur.com/5NO0MoV.png'>
+<!-- <img src='https://i.imgur.com/5NO0MoV.png'> -->
 
-# Vinicius Bortoletto
-<div>
-  <img src="https://i.imgur.com/GsVJUjX.png" width='400px' align='right' alt="Computador iuriCode">
+<div align="center">
+  <a href="https://github.com/vinibortoletto">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinibortoletto&show_icons=true&hide_border=true&text_color=0b6b81&title_color=009DBE&bg_color=0D1017&icon_color=009DBE&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinibortoletto&layout=compact&langs_count=7&hide_border=true&text_color=0b6b81&title_color=009DBE&bg_color=0D1017&icon_color=009DBE"/>
 </div>
+  
+## Projetos
+<div align='center'>
+  <a href="https://github.com/vinibortoletto/recipes-app#------uma-aplica%C3%A7%C3%A3o-para-pesquisa-de-receitas-de-comidas-e-bebidas">
+    <img width=45% alt="project card" src="https://i.imgur.com/W4wU894.png" />
+  </a>
 
-<p align='left'>
-Comecei minha jornada como Técnico em Informática, formado pela escola SENAC, onde fui apresentado ao mundo da tecnologia, porém sempre fui uma pessoa muito criativa, desenhando e escrevendo histórias, por isso decidi ir para outra área e trabalhei alguns anos como ilustrador digital, tento à oportunidade de atender clientes internacionais, o que me permitiu desenvolver minha criatividade, meu inglês e habilidades importantes na área de negócios.
-
-Passado alguns anos, a ilustração já não me animava mais, então resolvi buscar novos desafios e voltei para área de tecnologia, e hoje sou estudante de desenvolvimento web full-stack, formando pela escola Trybe. Lá, descobri na programação a possibilidade de continuar exercendo minha criatividade na criação de códigos. Também fiz parte dos VolunTrybers, uma iniciativa onde auxiliávamos outros colegas estudantes com dificuldades, o que me ensinou habilidades socio-emocionais importantes, como comunicação assertiva, empatia, escuta ativa, além de colaboração, resiliência e resolução de problemas através de diversos trabalhos em equipe.
-</p>
+  <a href="https://github.com/vinibortoletto/trybe-futebol-clube#tryber-futebol-clube">
+    <img width=45% alt="project card" src="https://i.imgur.com/VqIMGpo.png" />
+  </a>
+</div>
 
 ## Tecnologias
 <p align='left'>
@@ -40,18 +46,6 @@ Passado alguns anos, a ilustração já não me animava mais, então resolvi bus
   <img src="https://img.shields.io/badge/Linux-0b6b81?style=for-the-badge&logo=linux&logoColor=white" /> 
 </p>
 
-## Projetos
-
-<div align='center'>
-<a href="https://github.com/vinibortoletto/recipes-app#------uma-aplica%C3%A7%C3%A3o-para-pesquisa-de-receitas-de-comidas-e-bebidas">
-    <img width=45% alt="project card" src="https://i.imgur.com/W4wU894.png" />
-</a>
-
-<a href="https://github.com/vinibortoletto/trybe-futebol-clube#tryber-futebol-clube">
-    <img width=45% alt="project card" src="https://i.imgur.com/VqIMGpo.png" />
-</a>
-</div>
-
 ## Idiomas
 - Inglês (avançado)
 - Francês (intermediário)
@@ -61,12 +55,15 @@ Passado alguns anos, a ilustração já não me animava mais, então resolvi bus
 - Email: ovinibortoletto@gmail.com
 - LinkedIn: https://www.linkedin.com/in/vinicius-bortoletto/
 
-<br>
-
-<div align="center">
-  <a href="https://github.com/vinibortoletto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinibortoletto&show_icons=true&hide_border=true&text_color=0b6b81&title_color=009DBE&bg_color=0D1017&icon_color=009DBE&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinibortoletto&layout=compact&langs_count=7&hide_border=true&text_color=0b6b81&title_color=009DBE&bg_color=0D1017&icon_color=009DBE"/>
+## Sobre
+<div>
+  <img src="https://i.imgur.com/GsVJUjX.png" width='400px' align='right' alt="Computador iuriCode">
 </div>
+
+<p align='left'>
+Comecei minha jornada como Técnico em Informática, formado pela escola SENAC, onde fui apresentado ao mundo da tecnologia, porém sempre fui uma pessoa muito criativa, desenhando e escrevendo histórias, por isso decidi ir para outra área e trabalhei alguns anos como ilustrador digital, tento à oportunidade de atender clientes internacionais, o que me permitiu desenvolver minha criatividade, meu inglês e habilidades importantes na área de negócios.
+
+Passado alguns anos, a ilustração já não me animava mais, então resolvi buscar novos desafios e voltei para área de tecnologia, e hoje sou estudante de desenvolvimento web full-stack, formando pela escola Trybe. Lá, descobri na programação a possibilidade de continuar exercendo minha criatividade na criação de códigos. Também fiz parte dos VolunTrybers, uma iniciativa onde auxiliávamos outros colegas estudantes com dificuldades, o que me ensinou habilidades socio-emocionais importantes, como comunicação assertiva, empatia, escuta ativa, além de colaboração, resiliência e resolução de problemas através de diversos trabalhos em equipe.
+</p>
  
 <img src='https://i.imgur.com/T8WMiK7.png' >
