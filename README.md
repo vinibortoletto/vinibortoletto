@@ -36,6 +36,7 @@
   <img src="https://img.shields.io/badge/React-0b6b81?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Redux-0b6b81?style=for-the-badge&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/React_Router-0b6b81?style=for-the-badge&logo=react-router&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue-0b6b81?style=for-the-badge&logo=vue&logoColor=white" />
   
   <img src="https://img.shields.io/badge/Node.js-0b6b81?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-0b6b81?style=for-the-badge" /> 
@@ -72,6 +73,8 @@
 Comecei minha jornada como Técnico em Informática, formado pela escola SENAC, onde fui apresentado ao mundo da tecnologia, porém sempre fui uma pessoa muito criativa, desenhando e escrevendo histórias, por isso decidi ir para outra área e trabalhei alguns anos como ilustrador digital, tento à oportunidade de atender clientes internacionais, o que me permitiu desenvolver minha criatividade, meu inglês e habilidades importantes na área de negócios.
 
 Passado alguns anos, a ilustração já não me animava mais, então resolvi buscar novos desafios e voltei para área de tecnologia, e hoje sou estudante de desenvolvimento web full-stack, formando pela escola Trybe. Lá, descobri na programação a possibilidade de continuar exercendo minha criatividade na criação de códigos. Também fiz parte dos VolunTrybers, uma iniciativa onde auxiliávamos outros colegas estudantes com dificuldades, o que me ensinou habilidades socio-emocionais importantes, como comunicação assertiva, empatia, escuta ativa, além de colaboração, resiliência e resolução de problemas através de diversos trabalhos em equipe.
-</p>
+
+Atualmente, sou desenvolvedor front-end na empresa <a href="https://www.linkedin.com/company/uctechnologydobrasil/mycompany/">UC Technology</a> onde trabalho com Vue.js, TypeScript e TailwindCSS.
+</p> 
  
 <!-- <img src='https://i.imgur.com/T8WMiK7.png' > -->
